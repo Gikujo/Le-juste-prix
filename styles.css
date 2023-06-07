@@ -1,0 +1,38 @@
+html,
+body {
+    background-color: #232020;
+    min-width: 500px;
+}
+
+header {
+    color: #ff7315;
+    text-align: center;
+    font-size: 3em;
+}
+
+#instructions {
+    color: white;
+}
+
+.instruction {
+    padding: 15px;
+    margin: 10px 0;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.plus {
+    background-color: #f67280;
+    border-color: #d70d3f;
+}
+
+.moins {
+    background-color: #ffa372;
+    border-color: #fa6413;
+}
+
+.fini {
+    background-color: #0c9463;
+    border-color: #065c3c;
+}
